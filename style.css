@@ -1,3 +1,15 @@
-body {
-    font-size: 16px;
+.zoo {
+    font-size: 300px;
+    color:green;
+    left:500px;
+}
+.elephant{
+    font-size:300px;
+    color:gray;
+    left:550px;
+}
+.stamp{
+    font-size:900px;
+    color:red;
+    left:600px;
 }
